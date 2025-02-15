@@ -1,4 +1,4 @@
-# CV_2025_ProjectNO_Trinity
+# CV_2025_7_Trinity
 
 ### Group member details:
 | Member Name | Email Id | Enrollment No |
