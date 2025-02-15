@@ -7,7 +7,7 @@
 | Krina Khakhariya | krina.k@ahduni.edu.in | AU2444005 |
 | Brijesh Munjiyasara | brijesh.m@ahduni.edu.in | AU2444011 |
 
-# Improve Online Trackers with Feature Evolution Analysis
+# Improve existing online trackers by measuring feature evolution of objects [UAV videos]
 
 ## Overview
 This project aims to enhance existing online object trackers by measuring the feature evolution of objects in UAV videos. The focus is on evaluating the performance of ReID-based (Re-Identification) trackers in object tracking, considering feature evolution to handle cases where immediate detection may fail.
